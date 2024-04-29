@@ -2,7 +2,7 @@
 
 <h1 align="center">Hi 👋, I'm Ismael</h1>
 <h3 align="center">A begginer programing from Argentina</h3>
-<img="https://giphy.com/gifs/pixel-art-jeff-cPZdap8PGhSvABr6xW" width=300">
+<img src="https://giphy.com/gifs/pixel-art-jeff-cPZdap8PGhSvABr6xW" width=300">
 - 🌱 I’m currently learning **Phyton**
 
 <h3 align="left">Connect with me:</h3>
