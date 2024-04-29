@@ -2,7 +2,9 @@
 
 <h1 align="center">Hi 👋, I'm Ismael</h1>
 <h3 align="center">A begginer programing from Argentina</h3>
-<img src="https://66.media.tumblr.com/ec91d01e032655ead88cb109ed646b8e/tumblr_pz5xlpm2wT1tgo74ho1_640.gif" width="150">
+<div class="header" align= "center">
+<img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExN290MjU0djB3NDdoODhzaWp6YXllYjF6ODRiYm85dXh2cnVjZHM4bCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ckr4W2ppxPBeIF8dx4/giphy.gif" width="400" >
+</div>
 - 🌱 I’m currently learning **Phyton**
 
 <h3 align="left">Connect with me:</h3>
